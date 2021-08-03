@@ -102,5 +102,7 @@ public class operators {
 
         System.out.println(!(a == 5));
 
+        System.out.println("This text should show up for github practice");
+
     }
 }
